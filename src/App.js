@@ -1,6 +1,6 @@
 import React from 'react';
 import XDictionary from './XDictionary';
-import './App.css';
+// import './App.css';
 
 function App() {
   return (
